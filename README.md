@@ -1,3 +1,3 @@
 # NetPractice
 
-<img src="https://github.com/hlefevregit/push_swap/blob/main/Screenshot%20from%202024-08-27%2013-07-50.png"/>
+<img src="https://github.com/hlefevregit/NetPractice/blob/main/Screenshot%20from%202025-01-18%2014-27-23.png"/>
